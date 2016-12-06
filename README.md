@@ -1,7 +1,7 @@
 # The Fish Tank Simulation
 
 The simulator has the following properties:
-There is only one fish tank
+There is only one fish tank;
 The user can add fish, snails and fish food
 Living fish and snails both eat fish food
 Piranha fish may also eat other fish
