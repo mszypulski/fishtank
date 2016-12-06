@@ -2,16 +2,16 @@
 
 The simulator has the following properties:
 There is only one fish tank;
-The user can add fish, snails and fish food
-Living fish and snails both eat fish food
-Piranha fish may also eat other fish
-Clockwork fish do not eat anything
-The user can vary the temperature of the fish tank
-When the temperature falls below 15 degrees centigrade, piranha fish die
+The user can add fish, snails and fish food;
+Living fish and snails both eat fish food;
+Piranha fish may also eat other fish;
+Clockwork fish do not eat anything;
+The user can vary the temperature of the fish tank;
+When the temperature falls below 15 degrees centigrade, piranha fish die;
 Events in the fish tank are time based; every interval:
-The user may change the state of the fish tank (adding items, changing the temperature etc.)
-Inhabitants that eat food, do so
-Inhabitants may be eaten or otherwise die
+The user may change the state of the fish tank (adding items, changing the temperature etc.);
+Inhabitants that eat food, do so;
+Inhabitants may be eaten or otherwise die.
 
 Task 1: The Goldfish Bowl
 Create a very simple simulation that represents a fish tank with a single generic fish in it.
