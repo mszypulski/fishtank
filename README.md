@@ -18,11 +18,11 @@
 
 * Events in the fish tank are time based; every interval:
 
-* The user may change the state of the fish tank (adding items, changing the temperature etc.);
+1. The user may change the state of the fish tank (adding items, changing the temperature etc.);
 
-* Inhabitants that eat food, do so;
+2. Inhabitants that eat food, do so;
 
-* Inhabitants may be eaten or otherwise die;
+3. Inhabitants may be eaten or otherwise die;
 
 ---
 ##Task 1: The Goldfish Bowl
