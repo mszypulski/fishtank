@@ -1,5 +1,4 @@
-# fishtank
-The Fish Tank Simulation
+# The Fish Tank Simulation
 
 The simulator has the following properties:
 There is only one fish tank
