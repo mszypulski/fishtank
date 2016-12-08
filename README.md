@@ -43,5 +43,5 @@ Add a random amount of food to your tank at the start of the simulation for the 
 ---
 ##Task 4: Divine Influence
 
-The fish tank has an owner, our user. The user can influence the fish tank by either adding more food (hit the **space key**) or changing the temperature of the tank (**left and right arrow keys**) and adding more fishes, piranhas, snails by clicking **proper icon** at the top on the screen. If the temperature falls below 15 degrees centigrade then it is too cold for the piranha and they begin to perish.
+The fish tank has an owner, our user. The user can influence the fish tank by either adding more food (hit the **space key**) or changing the temperature of the tank (**left and right arrow keys**) and adding more fishes, piranhas, snails by clicking **proper icon** at the top of the screen. If the temperature falls below 15 degrees centigrade then it is too cold for the piranha and they begin to perish.
 
