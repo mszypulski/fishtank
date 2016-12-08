@@ -1,5 +1,7 @@
 # The Fish Tank Simulation
 
+**Plese note: To run this software you have to have Adobe Flash Player Standalone [link](http://http://labs.adobe.com/downloads/flashplayer.html) installed.
+
 ###The simulator has the following properties:
 
 1. There is only one fish tank;
